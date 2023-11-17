@@ -1,3 +1,11 @@
+/*
+ * Filename: authRoutes.js
+ * Student's Name: Meet Patel
+ * Student ID: 200555977
+ * Date: 16 Oct 2023
+ */
+
+
 const express = require('express');
 const connectEnsureLogin = require('connect-ensure-login');
 const authController = require('../controllers/authController');

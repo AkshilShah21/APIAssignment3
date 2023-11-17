@@ -1,3 +1,10 @@
+/*
+ * Filename: User.js
+ * Student's Name: Chesta Patel
+ * Student ID: 200542446
+ * Date: 12 Oct 2023
+ */
+
 const mongoose = require('mongoose');
 const passportLocalMongoose = require('passport-local-mongoose');
 

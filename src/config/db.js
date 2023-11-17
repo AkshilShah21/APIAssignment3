@@ -1,3 +1,10 @@
+/*
+ * Filename: db.js
+ * Student's Name: Akshil Shah
+ * Student ID: 200557118
+ * Date: 16 Oct 2023
+ */
+
 const mongoose = require('mongoose');
 const MONGOURI = "mongodb+srv://user:user@atlascluster.ho6zqeq.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
 

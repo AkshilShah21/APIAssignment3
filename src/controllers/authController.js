@@ -1,3 +1,11 @@
+/*
+ * Filename: bookcontroller.js
+ * Student's Name: Akshil Shah
+ * Student ID: 200557118
+ * Date: 16 Oct 2023
+ */
+
+
 const passport = require('passport');
 const connectEnsureLogin = require('connect-ensure-login');
 
