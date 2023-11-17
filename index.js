@@ -52,7 +52,8 @@ mongoose.connection.once('open', () => {
 });
 
 // Passport Configuration
-require('./src/models/User'); 
+// require('./src/models/User').register({username:'chesta', active: false}, 'chesta'); 
+require('./src/models/User')
 require('./src/config/passport')(passport);
 
 // Routes
